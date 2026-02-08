@@ -1,3 +1,7 @@
+; ============================================================================
+; =   Reverse Shell (TCP) (INJ) (Linux x86-64) — EDUCATIONAL PURPOSES ONLY   =
+; =                        With <3 by 574R — No guarantees.                  =
+; ============================================================================
 
 section .text
 global _start
