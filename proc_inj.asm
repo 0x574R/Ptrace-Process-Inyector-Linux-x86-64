@@ -380,7 +380,3 @@ _start:
     mov rax, 60
     xor rdi,rdi 
     syscall
-
-
-
-;Explicar fork, setsid y munmap
